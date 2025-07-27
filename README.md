@@ -53,7 +53,6 @@
 ### **3. Friendsbook**  
 - **Tech Stack:** React, NodeJS, ExpressJS, MongoDB, Tailwind CSS, Socket.io  
 - **Features:** A real-time social networking app with real time messaging, Google OAuth 2.0, profile customization, and post sharing for seamless user interaction. 
-- [GitHub Repo](https://github.com/balaji259/socialmedia)
 - [Live demo](https://friendsbook-cy0f.onrender.com)   
 
 ---
