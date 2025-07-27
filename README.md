@@ -44,7 +44,7 @@
 - [GitHub Repo](https://github.com/balaji259/ResumeAnalyzer_backend)
 - [Live demo](https://resumehubrbt.netlify.app)
 
-### **2. Shrtn **  
+### **2. Shrtn**  
 - **Tech Stack:** Spring Boot, React, Tailwind CSS, Spring Security, PostgreSQL (Neon), Chart.js  
 - **Features:** A full-stack URL shortener with secure login using Spring Security. Enabled users to create short links and track daily clicks through an interactive Chart.js dashboard backed by PostgreSQL. 
 - [GitHub Repo](https://github.com/balaji259/Shrtn-backend)
