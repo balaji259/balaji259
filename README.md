@@ -50,10 +50,11 @@
 - [GitHub Repo](https://github.com/balaji259/Shrtn-backend)
 - [Live demo](https://shrtn-link.vercel.app)  
 
-### **3. Friendsbook**  
-- **Tech Stack:** React, NodeJS, ExpressJS, MongoDB, Tailwind CSS, Socket.io  
-- **Features:** A real-time social networking app with real time messaging, Google OAuth 2.0, profile customization, and post sharing for seamless user interaction. 
-- [Live demo](https://friendsbook-cy0f.onrender.com)   
+### **3. GoalSync**  
+- **Tech Stack:** React, NodeJS, ExpressJS, MongoDB, Tailwind CSS, Redux Toolkit  
+- **Features:** GoalSync is a collaborative goal-tracking app where users can create and join groups, set goals and track progress with checklist and single-task types — all with dark mode support and Redux Toolkit state management.
+- [GitHub Repo](https://github.com/balaji259/goalsync-client)
+- [Live demo](https://goalsync-ten.vercel.app)   
 
 ---
 
