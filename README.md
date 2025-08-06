@@ -52,7 +52,7 @@
 
 ### **3. GoalSync**  
 - **Tech Stack:** React, NodeJS, ExpressJS, MongoDB, Tailwind CSS, Redux Toolkit  
-- **Features:** GoalSync is a collaborative goal-tracking app where users can create and join groups, set goals and track progress with checklist and single-task types — all with dark mode support and Redux Toolkit state management.
+- **Features:** GoalSync is a goal-tracking app where users can create and join groups, set goals and track progress with checklist and single-task types — all with dark mode support and Redux Toolkit state management.Also enables users of the group to communicate in real time with the help of Socket.io.
 - [GitHub Repo](https://github.com/balaji259/goalsync-client)
 - [Live demo](https://goalsync-ten.vercel.app)   
 
