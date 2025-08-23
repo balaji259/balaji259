@@ -67,3 +67,9 @@
 ## 🤝 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/balaji-puneti/)  
 - **Email:** balajipuneti259@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=balaji259&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
