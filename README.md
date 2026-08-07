@@ -27,16 +27,16 @@
 <br>
 
 > **TrackFlow** — Multi-org project management with Kanban boards, RBAC, invite-based onboarding, real-time task chat via Socket.IO, and an analytics dashboard
-> `Next.js` `Node.js` `MongoDB` `Socket.IO` `Clerk` · [Code ↗](https://github.com/balaji259/TrackFlow)
+> `Next.js` `Node.js` `MongoDB` `Socket.IO` `Clerk` · [Code ↗](https://github.com/balaji259/TrackFlow) · [Live ↗](https://trackflow-pmt.vercel.app)
 >
 > **FriendsBook** — Full-stack social platform with 100+ users — media-rich posts, nested comments, real-time messaging, Google OAuth, and PIN-based 2FA
-> `React` `Node.js` `Express` `MongoDB` `Socket.IO` `Cloudinary` · [Code ↗](https://github.com/balaji259/friendsbook)
+> `React` `Node.js` `Express` `MongoDB` `Socket.IO` `Cloudinary` · [Code ↗](https://github.com/balaji259/friendsbook) · [Live ↗](https://friendsbook-app.onrender.com)
 >
 > **Shrtn** — URL shortener with custom aliases, password-protected links, expiration policies, click limits, one-time links, and a Chart.js analytics dashboard
 > `Spring Boot` `Spring Security` `PostgreSQL` `JWT` `React` · [Backend ↗](https://github.com/balaji259/Shrtn-backend) · [Frontend ↗](https://github.com/balaji259/Shrtn-frontend) · [Live ↗](https://shrtn-link.vercel.app)
 >
 > **ResumeHub** — AI resume platform — ATS Checker, Job Matcher, and Interview Prep with technical MCQs, powered by Gemini API with structured JSON prompting
-> `React` `Node.js` `Express` `MongoDB` `Gemini API` · [Backend ↗](https://github.com/balaji259/ResumeAnalyzer_backend) · [Frontend ↗](https://github.com/balaji259/ResumeAnalyzer_frontend) · [Live ↗](https://resumehubrbt.netlify.app)
+> `React` `Node.js` `Express` `MongoDB` `Gemini API` · [Backend ↗](https://github.com/balaji259/ResumeAnalyzer_backend) · [Frontend ↗](https://github.com/rehan-rh/resume-frontend) · [Live ↗](https://resumehubrbt.netlify.app)
 
 
 <br>
